@@ -353,7 +353,7 @@ button, input, select { font: inherit; }
   grid-template-columns: 1fr 1fr;
   gap: var(--form-gap);
   padding: var(--form-px);
-  background: #fff;
+  background: #eceff1;
   border: 1px solid var(--line);
   border-radius: 8px;
   /* ทำให้แต่ละ row สูงเท่ากัน — คำนวณจากจำนวน 8 rows */
